@@ -1,12 +1,13 @@
 # CHANGELOG - Self-Learning Vibe Coding Project
 
-## Version 1.0.0 - Initial Release (July 2025)
+## Version 0.5.0 - Initial Release (July 2, 2025)
 
 ### Added
 - **Core README.md article** - Complete guide to Self-Learning Vibe Coding concept
 - **GitHub Copilot instructions template** - `.github/copilot-instructions.md` example
 - **Example template file** - `copilot-instruction-example.md` with comprehensive patterns
 - **Project structure** - Basic file organization for the educational content
+- **Git repository setup** - Proper version control with descriptive commit messages
 
 ### Key Concepts Introduced
 - **Self-Learning Vibe Coding methodology** - Transform Copilot from static tool to evolving AI partner
@@ -33,6 +34,16 @@
 - Implementation methodology with concrete examples
 - Team collaboration strategies
 - Knowledge transfer benefits
+
+### AI Learning Rules Established
+- **@permissions** - Respect content ownership (README.md protection)
+- **@documentation** - Complete file sets requirement
+- **@clarity** - Explain the "why" behind methodologies
+- **@examples** - Provide concrete implementations
+- **@consistency** - Maintain formatting standards
+- **@context** - Understand project meta-purpose
+- **@assumptions** - Verify project context before proceeding
+- **@git** - Proper git setup for documentation projects
 
 ## Pre-Release Development
 
