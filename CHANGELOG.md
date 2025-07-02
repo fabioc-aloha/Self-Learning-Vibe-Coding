@@ -1,5 +1,18 @@
 # CHANGELOG - Self-Learning Vibe Coding Project
 
+## Version 0.5.1 - Enhanced Visual Content (July 2, 2025)
+
+### Added
+- **Self-Improvement.png** - Visual illustration of the self-improvement cycle in "The Magic Moment" section
+- **VSCodeEditor.png** - Screenshot showing VS Code implementation in "Activating and Using Copilot Instructions" section  
+- **TeamWorking.png** - Team collaboration illustration in "Knowledge Transfer With the 'Vibe'" section
+- **Enhanced visual storytelling** - Complete visual narrative supporting all major concepts
+
+### Improved
+- **Article engagement** - Four strategically placed images create better reading flow
+- **Concept clarity** - Visual support for abstract concepts like self-improvement and team collaboration
+- **Educational effectiveness** - Images reinforce key methodology points
+
 ## Version 0.5.0 - Initial Release (July 2, 2025)
 
 ### Added

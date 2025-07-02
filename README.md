@@ -1,6 +1,6 @@
 # Self-Learning Vibe Coding with GitHub Copilot in VS Code
 
-![GitHub Copilot Self-Learning](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Self-Learning Vibe Coding](Self-Learning%20Vive%20Coding.png)
 
 ## The Secret Technique That Transforms GitHub Copilot Into Your Personal AI Mentor
 
@@ -44,6 +44,8 @@ YourProject/
 This simple structure is all you need to start building your AI's personalized knowledge of your project.
 
 ## Activating and Using Copilot Instructions
+
+![VS Code Editor with Self-Learning Vibe Coding](VSCodeEditor.png)
 
 ### Prerequisites
 
@@ -118,6 +120,8 @@ For complex projects, consider creating multiple instruction files:
 GitHub Copilot will incorporate all relevant instruction files based on which files you have open.
 
 ## The Magic Moment: Creating Your Self-Learning AI Partner
+
+![Self-Improvement Cycle](Self-Improvement.png)
 
 Here's where the real magic happens. The key to Self-Learning Vibe Coding is the "AI Learnings from its Mistakes" section in your instructions file.
 
@@ -277,6 +281,8 @@ Ready to explore more? Check out these resources:
 - [GitHub Copilot for Business](https://github.com/features/copilot/business)
 
 ## One More Thing: Knowledge Transfer With the "Vibe"
+
+![Team Working with Self-Learning Vibe Coding](TeamWorking.png)
 
 There's an additional benefit to this approach that goes beyond improving Copilot's suggestions: **knowledge transfer**.
 
