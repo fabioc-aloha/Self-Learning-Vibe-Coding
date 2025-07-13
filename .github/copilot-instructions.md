@@ -1,54 +1,81 @@
-# Self-Learning Vibe Coding Article Project
+# Self-Learning Vibe Coding - Cognitive Memory Architecture
 
-IMPORTANT: Update .github\copilot-instructions.md with what we learn in terms of environment, architecture, and development practices. This file serves as the primary source of truth for all development directives.
-- To err once is human, to err twice is a mistake, to err three times is AI not learning from its mistakes.
+IMPORTANT: This file serves as Global Declarative Memory. Keep minimal and efficient. Detailed execution resides in specialized memory files.
 
-## Project Purpose
+## 🧠 Cognitive Architecture Status
 
-This project creates educational content that teaches developers how to transform GitHub Copilot from a static coding assistant into a self-improving AI partner. The core innovation is a feedback loop where Copilot learns from its mistakes and builds project-specific knowledge over time.
+**Working Memory**: 4/4 rules (at optimal capacity)
+**Consolidation**: Auto-trigger when exceeding capacity
+**Memory Distribution**: Active across procedural (.instructions.md) and episodic (.prompt.md) systems
 
-## Development Directives
+## 🚀 Working Memory - Quick Reference (Limit: 4 Critical Rules)
 
-**Environment & Tools:**
-- Markdown is the primary format for documentation and educational content
-- VS Code with GitHub Copilot extension is the target development environment
-- This is a documentation project, not a code development project
+| Priority | Rule | Load | Auto-Consolidate |
+|----------|------|------|------------------|
+| P1 | `@permissions` - Never modify README.md without explicit permission | Low | Never |
+| P2 | `@context` - Maintain meta-cognitive awareness for recursive learning scenarios | Medium | >30 days unused |
+| P3 | `@meditation` - Auto-consolidate when working memory capacity exceeded | High | When triggered |
+| P4 | `@multimodal` - Distribute complex functions across specialized memory systems | Medium | When obsolete |
 
-**Content Quality Principles:**
-- Create clear, actionable educational content
-- Provide concrete examples with both incorrect and correct approaches
-- Use consistent formatting and terminology throughout all documents
-- Ensure all instructions are testable and verifiable
-- Focus on practical implementation over theoretical concepts
+## 🎯 Cognitive Architecture Coordination
 
-**Documentation Structure:**
-- **README.md** - The complete educational article explaining Self-Learning Vibe Coding
-- **TODO.md** - Future development tasks and content improvements
-- **CHANGELOG.md** - Version history and content evolution
-- **copilot-instruction-example.md** - Template for readers to adapt to their projects
-- **.github/copilot-instructions.md** - This file, demonstrating the concept in practice
+### Multi-Modal Memory Distribution
 
-**Temporal Organization**: 
-- README.md represents the **present** - current version of the methodology
-- TODO.md represents the **future** - planned enhancements and expansions
-- CHANGELOG.md represents the **past** - completed work and version history
+**Procedural Memory Activation** (Context-Dependent):
+- `documentation.instructions.md` → Documentation patterns for .md, .txt, README*, CHANGELOG*
+- `academic.instructions.md` → Research methodology for README.md, *research*, *paper*, *academic*
+- `learning.instructions.md` → Consolidation protocols for *instructions*, *copilot*, *learning*
+- `implementation.instructions.md` → Technical setup for *setup*, *config*, *implementation*
 
-**Key Concepts to Maintain:**
-- Self-Learning Vibe Coding = AI that evolves with project-specific knowledge
-- Learning rules format: `@rulename Rule - Description: Detailed explanation with examples`
-- Feedback loop: Mistake → Documentation → Improvement → Avoided repetition
-- Team knowledge sharing through shared AI instruction files
-- Temporal organization of documentation for different audiences
+**Episodic Memory Activation** (Problem-Solving):
+- `research-review.prompt.md` → Systematic analysis workflows for literature review
+- `content-creation.prompt.md` → Content development protocols for writing tasks
+- `consolidation.prompt.md` → Memory optimization procedures for cognitive maintenance
 
-## AI Learnings from its Mistakes
+### Auto-Consolidation Triggers
 
-This section demonstrates the self-learning concept by documenting specific improvements:
-- @permissions Rule - Respect Content Ownership: Never modify README.md (the main educational article) without explicit user permission. This is the primary content that demonstrates the methodology and should remain under direct user control. Focus on supporting files like TODO.md, CHANGELOG.md, and templates instead.
-- @documentation Rule - Complete File Sets: When creating documentation projects, always ensure all referenced files exist. If README.md mentions TODO.md and CHANGELOG.md, create those files with appropriate content rather than leaving them as placeholders.
-- @clarity Rule - Explain the "Why": When documenting a methodology, clearly explain the problem it solves, the benefits it provides, and the specific outcomes users can expect. Don't assume readers understand the value proposition.
-- @examples Rule - Provide Concrete Implementation: Include real, working examples rather than just theoretical descriptions. Show actual file structures, code snippets, and step-by-step processes.
-- @consistency Rule - Maintain Formatting Standards: Use consistent formatting for rule names, file references, and code examples throughout all documentation. This makes the content more professional and easier to follow.
-- @context Rule - Understand Project Meta-Purpose: This project is itself a demonstration of Self-Learning Vibe Coding - we're using the methodology to create educational content about the methodology. The .github/copilot-instructions.md file serves as both documentation and live example.
-- @assumptions Rule - Verify Project Context: Do not make assumptions about the project type or tools being used. This is a documentation/educational content project, not a code development project. We are not using PowerShell or developing software - we are creating written educational materials about a methodology.
-- @git Rule - Git Setup for Documentation Projects: When setting up git for documentation projects, use descriptive commit messages that explain the educational purpose and content structure. The initial commit should clearly describe all documentation files and their roles in the learning methodology.
-- @versioning Rule - Semantic Versioning for Documentation Projects: Use semantic versioning even for documentation projects. 0.5.0 represents a substantial initial release with core methodology established but room for enhancement. Tag releases with detailed descriptions of what was accomplished and update CHANGELOG.md accordingly.
+- Working memory > 4 rules → Execute consolidation.prompt.md
+- Rule conflicts detected → Activate learning.instructions.md
+- Performance degradation → Review and redistribute memory load
+- User requests meditation → Full cognitive architecture optimization
+
+## 🔄 Memory Transfer Protocol
+
+**Immediate Transfer**: Critical errors → Quick Reference (P1-P4)
+**Gradual Consolidation**: Repeated patterns → Procedural memory (.instructions.md)
+**Complex Workflows**: Multi-step processes → Episodic memory (.prompt.md)
+**Archive Management**: Obsolete rules → Historical storage in specialized files
+**Index Maintenance**: Auto-update Long-Term Memory Index during all transfers
+
+## 📊 Cognitive Performance Monitoring
+
+**Auto-Tracked**: Error reduction, response relevance, cognitive load efficiency
+**Health Indicators**: Memory utilization, activation frequency, transfer success
+**Optimization**: Automatic threshold adjustment based on performance metrics
+
+## 📚 Long-Term Memory Index
+
+### Procedural Memory Store (.github/instructions/)
+| File | Domain | Activation Pattern | Last Updated |
+|------|--------|-------------------|--------------|
+| documentation.instructions.md | Documentation | *.md, README*, CHANGELOG* | Auto-tracked |
+| academic.instructions.md | Research Writing | *research*, *paper*, *academic* | Auto-tracked |
+| learning.instructions.md | Consolidation | *instructions*, *copilot*, *learning* | Auto-tracked |
+| implementation.instructions.md | Technical Setup | *setup*, *config*, *implementation* | Auto-tracked |
+
+### Episodic Memory Store (.github/prompts/)
+| File | Workflow Type | Complexity Level | Usage Frequency |
+|------|---------------|------------------|-----------------|
+| research-review.prompt.md | Research Analysis | High | Auto-tracked |
+| content-creation.prompt.md | Content Development | Medium | Auto-tracked |
+| consolidation.prompt.md | Memory Optimization | High | Auto-tracked |
+
+### Memory Transfer Protocol Status
+- **Active Files**: 7 specialized memory files
+- **Last Consolidation**: Auto-updated during meditation cycles
+- **Cognitive Load Status**: Optimized through distributed processing
+- **Index Synchronization**: Maintained automatically during consolidation
+
+---
+
+*Global Declarative Memory Component - Coordinates distributed cognitive architecture while maintaining optimal working memory efficiency. Detailed execution protocols reside in specialized memory files.*
