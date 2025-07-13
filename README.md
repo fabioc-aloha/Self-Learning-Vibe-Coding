@@ -1,8 +1,8 @@
 # Self-Learning Vibe Coding
 **Cognitive Architecture Framework for AI-Assisted Professional Excellence**
 
-[![Version](https://img.shields.io/badge/version-0.7.5%20DIAMOND-blue.svg)](https://github.com/fabioc-aloha/Self-Learning-Vibe-Coding)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![Version](https://img.shields.io/badge/version-0.7.5%20DIAMOND-blue.svg)](CHANGELOG.md)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE.md)
 [![Framework](https://img.shields.io/badge/framework-Meta--Cognitive-purple.svg)](AI-META-COGNITION.md)
 
 ![Self-Learning Vibe Coding](banner.png)
