@@ -1,7 +1,7 @@
 # Self-Learning Vibe Coding
 **Cognitive Architecture Framework for AI-Assisted Professional Excellence**
 
-[![Version](https://img.shields.io/badge/version-0.7.0%20DIAMOND-blue.svg)](https://github.com/fabioc-aloha/Self-Learning-Vibe-Coding)
+[![Version](https://img.shields.io/badge/version-0.7.5%20DIAMOND-blue.svg)](https://github.com/fabioc-aloha/Self-Learning-Vibe-Coding)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Framework](https://img.shields.io/badge/framework-Meta--Cognitive-purple.svg)](AI-META-COGNITION.md)
 
@@ -12,6 +12,13 @@
 Self-Learning Vibe Coding transforms static AI assistants into adaptive, self-aware learning partners that continuously improve through human cognitive principles. This framework implements working memory constraints, memory consolidation, and meta-cognitive capabilities to create AI systems that learn from experience and optimize their own performance.
 
 **🎯 Core Innovation**: The first practical implementation of meta-cognitive AI systems that can monitor, evaluate, and optimize their own cognitive processes across diverse professional domains.
+
+---
+**v0.7.5 Update:**
+- Expanded white paper and documentation for Project Catalyst
+- Enhanced alignment with GCX empowerment, professional satisfaction, creativity, and team culture
+- Added simplified catalog of meta-cognitive AI companion capabilities
+---
 
 ## Key Features
 
