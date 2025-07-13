@@ -1,8 +1,9 @@
 # Self-Learning Vibe Coding - Documentation Hub
+## Project Catalyst: Microsoft GCX Cognitive Architecture Framework
 
 ## 📚 Documentation Organization Structure
 
-This `docs/` folder contains all training materials, presentations, assessments, and supporting documentation for the Cognitive Architecture framework implementation at Microsoft GCX.
+This `docs/` folder contains all training materials, presentations, assessments, and supporting documentation for **Project Catalyst** - the Cognitive Architecture framework implementation at Microsoft GCX.
 
 ### 🏗️ Folder Structure
 
@@ -168,4 +169,4 @@ Specialized content for:
 
 ---
 
-*This documentation hub supports the comprehensive cognitive architecture implementation strategy for Microsoft GCX, bridging academic research rigor with practical enterprise deployment excellence.*
+*This documentation hub supports **Project Catalyst** - the comprehensive cognitive architecture implementation strategy for Microsoft GCX, bridging academic research rigor with practical enterprise deployment excellence.*
