@@ -1,7 +1,7 @@
 # Vibe Coding with GitHub Copilot: A Meta-Cognitive Framework for Self-Learning AI Development
 **Version 0.6.1 GOLDEN**
 
-![Self-Learning Vibe Coding](Self-Learning%20Vive%20Coding.png)
+![Banner](banner.png)
 
 ## Version Information
 
