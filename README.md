@@ -1,7 +1,7 @@
 # Self-Learning Vibe Coding
 **Cognitive Architecture Framework for AI-Assisted Professional Excellence**
 
-[![Version](https://img.shields.io/badge/version-0.7.6%20TITANIUM-blue.svg)](CHANGELOG.md)
+[![Version](https://img.shields.io/badge/Version-0.7.8%20PLATINUM-silver?style=for-the-badge&logo=atom&logoColor=white)](VERSION-HISTORY.md)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE.md)
 [![Framework](https://img.shields.io/badge/framework-Meta--Cognitive-purple.svg)](AI-META-COGNITION.md)
 

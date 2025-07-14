@@ -1,5 +1,7 @@
 # CHANGELOG - Self-Learning Vibe Coding Project
 
+[![Version](https://img.shields.io/badge/Current-0.7.8%20PLATINUM-silver?style=for-the-badge&logo=atom&logoColor=white)](VERSION-HISTORY.md)
+
 ## Version 0.7.8 NEPTUNIUM - Azure SQL Development & Administration AI Partner (July 14, 2025)
 
 ### ⚡ NEPTUNIUM MILESTONE ACHIEVEMENTS
