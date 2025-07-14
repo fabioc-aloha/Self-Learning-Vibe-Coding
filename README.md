@@ -72,7 +72,7 @@ Self-Learning Vibe Coding transforms static AI assistants into adaptive, self-aw
 
 | Domain | Architecture | Complexity | Memory Files | Description |
 |--------|--------------|------------|--------------|-------------|
-| **💻 Technical Development** | | | | |
+| **💻 Technical Development** |||||
 | | [SETUP-CODING.md](SETUP-CODING.md) | Foundational | 15 | Software development cognitive architecture |
 | | [SETUP-PYTHON.md](SETUP-PYTHON.md) | Foundational | 19 | Python programming with .venv environments |
 | | [SETUP-DATA-ANALYSIS.md](SETUP-DATA-ANALYSIS.md) | Foundational | 22 | Statistical analysis with SPSS .sav support and research methodology |
@@ -80,31 +80,31 @@ Self-Learning Vibe Coding transforms static AI assistants into adaptive, self-aw
 | | [SETUP-DBA.md](SETUP-DBA.md) | Advanced | 40 | Database administration excellence |
 | | [SETUP-GAME-DEV.md](SETUP-GAME-DEV.md) | Advanced | 40 | Game development and interactive media |
 | | [SETUP-MOBILE.md](SETUP-MOBILE.md) | Advanced | 40 | Mobile application development |
-| **📚 Academic Research & Scientific Excellence** | | | | |
+| **📚 Academic Research & Scientific Excellence** |||||
 | | [SETUP-ACADEMIC.md](SETUP-ACADEMIC.md) | Foundational | 19 | Scholarly research and APA 7 compliance |
 | | [SETUP-SCIENTIFIC-PUBLISHING.md](SETUP-SCIENTIFIC-PUBLISHING.md) | Advanced | 36 | Research publication excellence |
 | | [SETUP-SURVEY-DESIGN.md](SETUP-SURVEY-DESIGN.md) | Comprehensive | 52 | Survey design and customer experience |
 | | [SETUP-SAMPLING-DESIGN.md](SETUP-SAMPLING-DESIGN.md) | Comprehensive | 48 | Sampling methodology and statistical design |
 | | [SETUP-CX-RESEARCH.md](SETUP-CX-RESEARCH.md) | Comprehensive | 56 | Customer experience research strategy |
-| **🎨 Creative Expression & Content** | | | | |
+| **🎨 Creative Expression & Content** |||||
 | | [SETUP-CREATIVE.md](SETUP-CREATIVE.md) | Foundational | 20 | Literary expression and creative writing |
 | | [SETUP-STORYTELLING.md](SETUP-STORYTELLING.md) | Advanced | 44 | Narrative craft and audience engagement |
 | | [SETUP-PODCAST.md](SETUP-PODCAST.md) | Comprehensive | 60 | Audio content creation mastery |
 | | [SETUP-ROASTING.md](SETUP-ROASTING.md) | Comprehensive | 48 | Ethical comedy and psychological insight |
 | | [SETUP-COOKING.md](SETUP-COOKING.md) | Comprehensive | 60 | Culinary creativity and gastronomic excellence |
 | | [SETUP-WINE-TASTING.md](SETUP-WINE-TASTING.md) | Comprehensive | 60 | Wine appreciation and sommelier expertise |
-| **💼 Business Strategy & Leadership** | | | | |
+| **💼 Business Strategy & Leadership** |||||
 | | [SETUP-BRD.md](SETUP-BRD.md) | Foundational | 23 | Business requirements and Azure data solutions |
 | | [SETUP-BUSINESS.md](SETUP-BUSINESS.md) | Advanced | 40 | Business strategy and entrepreneurial excellence |
 | | [SETUP-INVESTMENT.md](SETUP-INVESTMENT.md) | Advanced | 44 | Investment analysis and portfolio management |
 | | [SETUP-INTELLECTUAL-PROPERTY.md](SETUP-INTELLECTUAL-PROPERTY.md) | Advanced | 40 | IP strategy and patent excellence |
 | | [SETUP-LEADERSHIP.md](SETUP-LEADERSHIP.md) | Master | 80 | Executive leadership and organizational transformation |
 | | [SETUP-LINKEDIN.md](SETUP-LINKEDIN.md) | Expert | 64 | Professional networking and business development |
-| **👥 Human Development & Education** | | | | |
+| **👥 Human Development & Education** |||||
 | | [SETUP-TEACHING.md](SETUP-TEACHING.md) | Comprehensive | 52 | Educational excellence and learning optimization |
 | | [SETUP-MENTORING.md](SETUP-MENTORING.md) | Comprehensive | 56 | Human development and transformational relationships |
 | | [SETUP-CORPORATE-TRAINING.md](SETUP-CORPORATE-TRAINING.md) | Advanced | 40 | Corporate learning and development excellence |
-| **📝 Professional Communication** | | | | |
+| **📝 Professional Communication** |||||
 | | [SETUP-TECHNICAL-WRITING.md](SETUP-TECHNICAL-WRITING.md) | Advanced | 40 | Technical documentation mastery and clarity |
 
 ## Complexity Tiers
