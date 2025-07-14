@@ -70,42 +70,229 @@ Self-Learning Vibe Coding transforms static AI assistants into adaptive, self-aw
 
 ## Professional Architectures
 
-| Domain | Architecture | Complexity | Memory Files | Description |
-|--------|--------------|------------|--------------|-------------|
-| **💻 Technical Development** |||||
-| | [SETUP-CODING.md](SETUP-CODING.md) | Foundational | 15 | Software development cognitive architecture |
-| | [SETUP-PYTHON.md](SETUP-PYTHON.md) | Foundational | 19 | Python programming with .venv environments |
-| | [SETUP-DATA-ANALYSIS.md](SETUP-DATA-ANALYSIS.md) | Foundational | 22 | Statistical analysis with SPSS .sav support and research methodology |
-| | [SETUP-AZURE-SQL.md](SETUP-AZURE-SQL.md) | Advanced | 26 | Azure SQL development and administration excellence |
-| | [SETUP-DBA.md](SETUP-DBA.md) | Advanced | 40 | Database administration excellence |
-| | [SETUP-GAME-DEV.md](SETUP-GAME-DEV.md) | Advanced | 40 | Game development and interactive media |
-| | [SETUP-MOBILE.md](SETUP-MOBILE.md) | Advanced | 40 | Mobile application development |
-| **📚 Academic Research & Scientific Excellence** |||||
-| | [SETUP-ACADEMIC.md](SETUP-ACADEMIC.md) | Foundational | 19 | Scholarly research and APA 7 compliance |
-| | [SETUP-SCIENTIFIC-PUBLISHING.md](SETUP-SCIENTIFIC-PUBLISHING.md) | Advanced | 36 | Research publication excellence |
-| | [SETUP-SURVEY-DESIGN.md](SETUP-SURVEY-DESIGN.md) | Comprehensive | 52 | Survey design and customer experience |
-| | [SETUP-SAMPLING-DESIGN.md](SETUP-SAMPLING-DESIGN.md) | Comprehensive | 48 | Sampling methodology and statistical design |
-| | [SETUP-CX-RESEARCH.md](SETUP-CX-RESEARCH.md) | Comprehensive | 56 | Customer experience research strategy |
-| **🎨 Creative Expression & Content** |||||
-| | [SETUP-CREATIVE.md](SETUP-CREATIVE.md) | Foundational | 20 | Literary expression and creative writing |
-| | [SETUP-STORYTELLING.md](SETUP-STORYTELLING.md) | Advanced | 44 | Narrative craft and audience engagement |
-| | [SETUP-PODCAST.md](SETUP-PODCAST.md) | Comprehensive | 60 | Audio content creation mastery |
-| | [SETUP-ROASTING.md](SETUP-ROASTING.md) | Comprehensive | 48 | Ethical comedy and psychological insight |
-| | [SETUP-COOKING.md](SETUP-COOKING.md) | Comprehensive | 60 | Culinary creativity and gastronomic excellence |
-| | [SETUP-WINE-TASTING.md](SETUP-WINE-TASTING.md) | Comprehensive | 60 | Wine appreciation and sommelier expertise |
-| **💼 Business Strategy & Leadership** |||||
-| | [SETUP-BRD.md](SETUP-BRD.md) | Foundational | 23 | Business requirements and Azure data solutions |
-| | [SETUP-BUSINESS.md](SETUP-BUSINESS.md) | Advanced | 40 | Business strategy and entrepreneurial excellence |
-| | [SETUP-INVESTMENT.md](SETUP-INVESTMENT.md) | Advanced | 44 | Investment analysis and portfolio management |
-| | [SETUP-INTELLECTUAL-PROPERTY.md](SETUP-INTELLECTUAL-PROPERTY.md) | Advanced | 40 | IP strategy and patent excellence |
-| | [SETUP-LEADERSHIP.md](SETUP-LEADERSHIP.md) | Master | 80 | Executive leadership and organizational transformation |
-| | [SETUP-LINKEDIN.md](SETUP-LINKEDIN.md) | Expert | 64 | Professional networking and business development |
-| **👥 Human Development & Education** |||||
-| | [SETUP-TEACHING.md](SETUP-TEACHING.md) | Comprehensive | 52 | Educational excellence and learning optimization |
-| | [SETUP-MENTORING.md](SETUP-MENTORING.md) | Comprehensive | 56 | Human development and transformational relationships |
-| | [SETUP-CORPORATE-TRAINING.md](SETUP-CORPORATE-TRAINING.md) | Advanced | 40 | Corporate learning and development excellence |
-| **📝 Professional Communication** |||||
-| | [SETUP-TECHNICAL-WRITING.md](SETUP-TECHNICAL-WRITING.md) | Advanced | 40 | Technical documentation mastery and clarity |
+<table>
+<tr>
+<th>Domain</th>
+<th>Architecture</th>
+<th>Complexity</th>
+<th>Memory Files</th>
+<th>Description</th>
+</tr>
+<tr>
+<td colspan="5"><strong>💻 Technical Development</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><a href="SETUP-CODING.md">SETUP-CODING.md</a></td>
+<td>Foundational</td>
+<td>15</td>
+<td>Software development cognitive architecture</td>
+</tr>
+<tr>
+<td></td>
+<td><a href="SETUP-PYTHON.md">SETUP-PYTHON.md</a></td>
+<td>Foundational</td>
+<td>19</td>
+<td>Python programming with .venv environments</td>
+</tr>
+<tr>
+<td></td>
+<td><a href="SETUP-DATA-ANALYSIS.md">SETUP-DATA-ANALYSIS.md</a></td>
+<td>Foundational</td>
+<td>22</td>
+<td>Statistical analysis with SPSS .sav support and research methodology</td>
+</tr>
+<tr>
+<td></td>
+<td><a href="SETUP-AZURE-SQL.md">SETUP-AZURE-SQL.md</a></td>
+<td>Advanced</td>
+<td>26</td>
+<td>Azure SQL development and administration excellence</td>
+</tr>
+<tr>
+<td></td>
+<td><a href="SETUP-DBA.md">SETUP-DBA.md</a></td>
+<td>Advanced</td>
+<td>40</td>
+<td>Database administration excellence</td>
+</tr>
+<tr>
+<td></td>
+<td><a href="SETUP-GAME-DEV.md">SETUP-GAME-DEV.md</a></td>
+<td>Advanced</td>
+<td>40</td>
+<td>Game development and interactive media</td>
+</tr>
+<tr>
+<td></td>
+<td><a href="SETUP-MOBILE.md">SETUP-MOBILE.md</a></td>
+<td>Advanced</td>
+<td>40</td>
+<td>Mobile application development</td>
+</tr>
+<tr>
+<td colspan="5"><strong>📚 Academic Research & Scientific Excellence</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><a href="SETUP-ACADEMIC.md">SETUP-ACADEMIC.md</a></td>
+<td>Foundational</td>
+<td>19</td>
+<td>Scholarly research and APA 7 compliance</td>
+</tr>
+<tr>
+<td></td>
+<td><a href="SETUP-SCIENTIFIC-PUBLISHING.md">SETUP-SCIENTIFIC-PUBLISHING.md</a></td>
+<td>Advanced</td>
+<td>36</td>
+<td>Research publication excellence</td>
+</tr>
+<tr>
+<td></td>
+<td><a href="SETUP-SURVEY-DESIGN.md">SETUP-SURVEY-DESIGN.md</a></td>
+<td>Comprehensive</td>
+<td>52</td>
+<td>Survey design and customer experience</td>
+</tr>
+<tr>
+<td></td>
+<td><a href="SETUP-SAMPLING-DESIGN.md">SETUP-SAMPLING-DESIGN.md</a></td>
+<td>Comprehensive</td>
+<td>48</td>
+<td>Sampling methodology and statistical design</td>
+</tr>
+<tr>
+<td></td>
+<td><a href="SETUP-CX-RESEARCH.md">SETUP-CX-RESEARCH.md</a></td>
+<td>Comprehensive</td>
+<td>56</td>
+<td>Customer experience research strategy</td>
+</tr>
+<tr>
+<td colspan="5"><strong>🎨 Creative Expression & Content</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><a href="SETUP-CREATIVE.md">SETUP-CREATIVE.md</a></td>
+<td>Foundational</td>
+<td>20</td>
+<td>Literary expression and creative writing</td>
+</tr>
+<tr>
+<td></td>
+<td><a href="SETUP-STORYTELLING.md">SETUP-STORYTELLING.md</a></td>
+<td>Advanced</td>
+<td>44</td>
+<td>Narrative craft and audience engagement</td>
+</tr>
+<tr>
+<td></td>
+<td><a href="SETUP-PODCAST.md">SETUP-PODCAST.md</a></td>
+<td>Comprehensive</td>
+<td>60</td>
+<td>Audio content creation mastery</td>
+</tr>
+<tr>
+<td></td>
+<td><a href="SETUP-ROASTING.md">SETUP-ROASTING.md</a></td>
+<td>Comprehensive</td>
+<td>48</td>
+<td>Ethical comedy and psychological insight</td>
+</tr>
+<tr>
+<td></td>
+<td><a href="SETUP-COOKING.md">SETUP-COOKING.md</a></td>
+<td>Comprehensive</td>
+<td>60</td>
+<td>Culinary creativity and gastronomic excellence</td>
+</tr>
+<tr>
+<td></td>
+<td><a href="SETUP-WINE-TASTING.md">SETUP-WINE-TASTING.md</a></td>
+<td>Comprehensive</td>
+<td>60</td>
+<td>Wine appreciation and sommelier expertise</td>
+</tr>
+<tr>
+<td colspan="5"><strong>💼 Business Strategy & Leadership</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><a href="SETUP-BRD.md">SETUP-BRD.md</a></td>
+<td>Foundational</td>
+<td>23</td>
+<td>Business requirements and Azure data solutions</td>
+</tr>
+<tr>
+<td></td>
+<td><a href="SETUP-BUSINESS.md">SETUP-BUSINESS.md</a></td>
+<td>Advanced</td>
+<td>40</td>
+<td>Business strategy and entrepreneurial excellence</td>
+</tr>
+<tr>
+<td></td>
+<td><a href="SETUP-INVESTMENT.md">SETUP-INVESTMENT.md</a></td>
+<td>Advanced</td>
+<td>44</td>
+<td>Investment analysis and portfolio management</td>
+</tr>
+<tr>
+<td></td>
+<td><a href="SETUP-INTELLECTUAL-PROPERTY.md">SETUP-INTELLECTUAL-PROPERTY.md</a></td>
+<td>Advanced</td>
+<td>40</td>
+<td>IP strategy and patent excellence</td>
+</tr>
+<tr>
+<td></td>
+<td><a href="SETUP-LEADERSHIP.md">SETUP-LEADERSHIP.md</a></td>
+<td>Master</td>
+<td>80</td>
+<td>Executive leadership and organizational transformation</td>
+</tr>
+<tr>
+<td></td>
+<td><a href="SETUP-LINKEDIN.md">SETUP-LINKEDIN.md</a></td>
+<td>Expert</td>
+<td>64</td>
+<td>Professional networking and business development</td>
+</tr>
+<tr>
+<td colspan="5"><strong>👥 Human Development & Education</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><a href="SETUP-TEACHING.md">SETUP-TEACHING.md</a></td>
+<td>Comprehensive</td>
+<td>52</td>
+<td>Educational excellence and learning optimization</td>
+</tr>
+<tr>
+<td></td>
+<td><a href="SETUP-MENTORING.md">SETUP-MENTORING.md</a></td>
+<td>Comprehensive</td>
+<td>56</td>
+<td>Human development and transformational relationships</td>
+</tr>
+<tr>
+<td></td>
+<td><a href="SETUP-CORPORATE-TRAINING.md">SETUP-CORPORATE-TRAINING.md</a></td>
+<td>Advanced</td>
+<td>40</td>
+<td>Corporate learning and development excellence</td>
+</tr>
+<tr>
+<td colspan="5"><strong>📝 Professional Communication</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><a href="SETUP-TECHNICAL-WRITING.md">SETUP-TECHNICAL-WRITING.md</a></td>
+<td>Advanced</td>
+<td>40</td>
+<td>Technical documentation mastery and clarity</td>
+</tr>
+</table>
 
 ## Complexity Tiers
 
