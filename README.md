@@ -120,7 +120,7 @@ Self-Learning Vibe Coding transforms static AI assistants into adaptive, self-aw
 - 📖 **[AI-META-COGNITION.md](AI-META-COGNITION.md)** - Complete academic research paper and theoretical foundation
 - 🛠️ **[IMPLEMENTATION_GUIDE.md](IMPLEMENTATION_GUIDE.md)** - Step-by-step implementation instructions
 - 📋 **[TODO.md](TODO.md)** - Current development roadmap and planned features
-- 📝 **[CHANGELOG.md](CHANGELOG.md)** - Version history and updates
+- 📝 **[VERSION-HISTORY.md](VERSION-HISTORY.md)** - Scientific element-based version history and updates
 
 ### Additional Resources
 - 📚 **[guidelines.md](guidelines.md)** - Framework usage guidelines and best practices

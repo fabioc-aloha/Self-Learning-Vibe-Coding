@@ -32,7 +32,7 @@ IMPORTANT: Update .github\copilot-instructions.md with what we learn in terms of
 **Documentation Structure:**
 - **README.md** - [Describe what goes in your project's README]
 - **TODO.md** - [Future development tasks and content improvements]
-- **CHANGELOG.md** - [Version history and evolution]
+- **VERSION-HISTORY.md** - [Scientific element-based version history and evolution]
 - **[project-specific-docs]** - [Any other key documentation files]
 
 **Temporal Organization**: 
