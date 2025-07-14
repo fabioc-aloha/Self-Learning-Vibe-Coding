@@ -16,7 +16,7 @@ By the end of this guide, you will:
 - ✅ Have Git installed and properly configured
 - ✅ Have a GitHub account with GitHub Copilot enabled
 - ✅ Have Claude Sonnet 4 configured as your AI model
-- ✅ Be ready to deploy any of the 25 AI companion environments
+- ✅ Be ready to deploy any of the 26 AI companion environments
 
 ### **Time Required**
 - **Total Setup Time**: 45-60 minutes

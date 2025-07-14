@@ -7,8 +7,8 @@
 
 ## 📊 **Slide 1: Overview - AI Companion Environment Options**
 
-### **25 Specialized AI Companion Environments**
-- **💻 Technical Development**: 6 environments (15-40 memory files)
+### **26 Specialized AI Companion Environments**
+- **💻 Technical Development**: 7 environments (15-40 memory files)
 - **📚 Academic Research & Scientific Excellence**: 5 environments (19-56 memory files)
 - **🎨 Creative Expression & Content**: 6 environments (20-60 memory files)
 - **💼 Business Strategy & Leadership**: 6 environments (23-80 memory files)
@@ -24,6 +24,7 @@
 | **Software Development** | 🟢 Foundational | 15 | General coding and development |
 | **Python Programming** | 🟢 Foundational | 19 | Python projects with virtual environments |
 | **Data Analysis** | 🟢 Foundational | 22 | Statistical analysis and research methodology |
+| **Azure SQL Development** | 🟡 Advanced | 26 | Azure SQL database development and administration |
 | **Database Administration** | 🟡 Advanced | 40 | Database management and optimization |
 | **Game Development** | 🟡 Advanced | 40 | Interactive media and game creation |
 | **Mobile Development** | 🟡 Advanced | 40 | Mobile application development |
